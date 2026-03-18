@@ -1,0 +1,41 @@
+id_siniestro,id_poliza,fecha_siniestro,monto_siniestro,estado,motivo_rechazo
+13,3716,2025-07-13,-4274.39,Rechazado,monto_invalido
+32,20349,,-6166.3,No especificado,monto_invalido
+325,25648,2025-11-14,-12908.94,No especificado,monto_invalido
+349,18539,,-4684.76,Cerrado,monto_invalido
+377,19938,,-3081.44,Abierto,monto_invalido
+490,9596,,-6745.26,No especificado,monto_invalido
+549,10771,,-9024.61,Abierto,monto_invalido
+560,3151,,-1744.2,Abierto,monto_invalido
+579,6238,2025-06-25,-676.22,Rechazado,monto_invalido
+596,20730,,-13047.91,Abierto,monto_invalido
+798,9464,2025-07-11,-9622.54,Cerrado,monto_invalido
+854,7708,2026-02-11,-14084.73,No especificado,monto_invalido
+904,20112,,-14404.26,Abierto,monto_invalido
+924,4758,2025-11-09,-1173.6,No especificado,monto_invalido
+990,5952,2025-05-04,-12460.96,Cerrado,monto_invalido
+1511,7607,,-13471.35,Rechazado,monto_invalido
+1873,11859,,-13146.99,No especificado,monto_invalido
+1897,9593,2025-06-30,-7911.77,Cerrado,monto_invalido
+1946,9795,,-3125.37,No especificado,monto_invalido
+2097,3591,,-6057.44,Rechazado,monto_invalido
+2145,2154,,-8284.4,Abierto,monto_invalido
+2305,20381,,-7976.14,Cerrado,monto_invalido
+2865,17587,,-3183.57,No especificado,monto_invalido
+2877,13349,2025-04-17,-1208.59,Cerrado,monto_invalido
+2912,9939,,-3369.0,No especificado,monto_invalido
+3257,23170,,-10884.74,Cerrado,monto_invalido
+3359,3534,,-10341.59,Abierto,monto_invalido
+3365,12970,,-6341.77,Abierto,monto_invalido
+3622,19581,,-401.37,Cerrado,monto_invalido
+3631,13887,,-3648.92,Abierto,monto_invalido
+3652,16916,,-14782.04,Cerrado,monto_invalido
+3757,3132,,-13326.73,Cerrado,monto_invalido
+3764,20462,,-4945.74,Abierto,monto_invalido
+3926,17850,,-3859.65,No especificado,monto_invalido
+3962,24728,2025-03-22,-9975.57,Abierto,monto_invalido
+4283,20764,2025-10-06,-3812.07,Abierto,monto_invalido
+4342,2371,,-5718.7,Rechazado,monto_invalido
+4409,8082,,-12646.94,No especificado,monto_invalido
+4522,4758,2025-11-09,-1173.6,No especificado,monto_invalido
+4579,9596,,-6745.26,No especificado,monto_invalido
